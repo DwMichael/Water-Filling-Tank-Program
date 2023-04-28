@@ -13,8 +13,8 @@ Before starting the program, the user is required to enter the following values:
 - roof surface from which rainwater will be collected,
 - the location where the reservoir will be located, in order to collect information on rainfall
 
-https://raw.githubusercontent.com/MichaelDrabbit/Water-Filling-Tank-Program/main/images/interface.jpg
+![image](https://user-images.githubusercontent.com/79370938/235190636-d61381d8-b68e-48f0-9872-f7c5cea85767.png)
 
 2 Simulation of the amount of available water in the tank
 
-https://raw.githubusercontent.com/MichaelDrabbit/Water-Filling-Tank-Program/main/images/menu.jpg
+![image](https://user-images.githubusercontent.com/79370938/235190684-8d854000-eb3d-4b21-a039-846a40b6e359.png)
